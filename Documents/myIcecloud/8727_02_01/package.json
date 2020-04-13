@@ -1,0 +1,18 @@
+{
+  "name": "8727_02_01",
+  "version": "1.0.0",
+  "description": "install node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "node",
+    "app"
+  ],
+  "author": "Caleb Park",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
